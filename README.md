@@ -2,8 +2,6 @@
 
 I'm Aasrith Jangala, a committed 14-year-old front-end UI/UX website developer focused on delivering visually appealing website interfaces. You can view all of my current technical stats below!
 
-### My GitHub Stats
-
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <!-- Row 1: The Large Profile Details Card spans across both columns -->
   <tr>
