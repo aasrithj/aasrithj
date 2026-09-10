@@ -1,4 +1,4 @@
-# Hey there!
+## Hey there!
 
 I'm Aasrith Jangala, a committed 14-year-old front-end UI/UX website developer focused on delivering visually appealing website interfaces. You can view all of my current technical stats below!
 
