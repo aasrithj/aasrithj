@@ -1,6 +1,6 @@
 ## Hey there!
 
-I'm Aasrith Jangala, a committed 14-year-old front-end UI/UX website developer focused on delivering visually appealing website interfaces. Feel free to reach out for literally anything!
+I'm Aasrith Jangala, and I'm currently a 9th-grade freshman at Deep Run High in Richmond, Virginia, focusing on building visually appealing UI/UX designs for all. Feel free to reach out for literally anything!
 
 <p align="center">
   <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
