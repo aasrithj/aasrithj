@@ -1,4 +1,4 @@
-## Hey there!
+## **Hey there!**
 
 I'm Aasrith Jangala, and I'm currently a 9th-grade freshman at the Center for Information Technology @ Deep Run High School in Richmond, Virginia, focusing on building visually appealing UI/UX designs for all. Feel free to reach out for literally anything!
 
